@@ -128,3 +128,59 @@ Category
 Urgency
       ↓
 Action Plan
+
+```
+---
+
+## 🌐 Live Demo
+
+**Live Application:**  
+[https://your-jansetu-app.run.app](https://your-jansetu-app.run.app)
+
+> 🚀 The live prototype will be available after deployment on Google Cloud Run.
+
+---
+
+## 👨‍💻 Developer
+
+**Ashish Kumar Prusty**  
+AI & Machine Learning Engineer ·  
+📍 Odisha, India
+
+[GitHub](https://github.com/ASHISH8652) · 
+[LinkedIn](https://www.linkedin.com/in/ashish-kumar-prusty-7947ba263/)
+
+---
+
+## 🏆 Hackathon
+
+### Build with AI: Code for Communities — Second Edition
+
+**Selected Track:**  
+🎯 **Track 1 — AI for Digital Public Infrastructure & Governance**
+
+JanSetu AI was developed as a hackathon prototype to explore how
+Generative AI can simplify the journey from a citizen's natural-language
+problem to a structured and actionable public-service request.
+
+---
+
+## 📄 License
+
+MIT License.
+
+---
+
+<div align="center">
+
+### 🇮🇳 JanSetu AI
+
+**Citizen Voice → Gemini Reasoning → Service Routing → Actionable Request**
+
+---
+
+### ⭐ If you found this project useful, please consider giving it a Star ⭐
+
+Made with ❤️ by **Ashish Kumar Prusty**
+
+</div>
